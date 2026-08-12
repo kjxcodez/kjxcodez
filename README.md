@@ -143,9 +143,9 @@ A reusable React component library focused on consistent, composable interfaces.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kjxcodez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Kapil's GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=kjxcodez&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Kapil's GitHub contribution streak"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjxcodez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Kapil's most-used languages"/>
+<img height="165" width="33%" src="https://github-stats-extended.vercel.app/api?username=kjxcodez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Kapil's GitHub stats"/>
+<img height="165" width="33%" src="https://streak-stats.demolab.com?user=kjxcodez&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Kapil's GitHub contribution streak"/>
+<img height="165" width="33%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kjxcodez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Kapil's most-used languages"/>
 
 </div>
 
@@ -156,8 +156,6 @@ A reusable React component library focused on consistent, composable interfaces.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/kjxcodez/kjxcodez/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating Kapil's contribution graph"/>
-
-<sub>Animated snake eating my contribution graph — set up with the workflow file below, one-time.</sub>
 
 </div>
 
