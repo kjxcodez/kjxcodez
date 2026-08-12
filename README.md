@@ -152,16 +152,6 @@ A reusable React component library focused on consistent, composable interfaces.
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kjxcodez/kjxcodez/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kjxcodez/kjxcodez/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/kjxcodez/kjxcodez/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake eating Kapil's contribution graph"/> </picture>
 
-<img src="https://raw.githubusercontent.com/kjxcodez/kjxcodez/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating Kapil's contribution graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0B1220&height=100&section=footer" width="100%"/>
-
-</div>
+</div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0B1220&height=100&section=footer" width="100%"/> </div>
