@@ -19,8 +19,7 @@
 ## `whoami`
 
 I'm a **Full-Stack Developer** focused on **developer tools, AI-powered products, and web applications**.
-
-I enjoy working across the stack — from UI and product design to APIs, databases, infrastructure, and developer experience.
+I enjoy working across the stack - from UI and product design to APIs, databases, infrastructure, and developer experience.
 
 Previously, I worked as an **SDE at RapidQuest Solutions**, contributing to Shopify applications that reached **1,000+ installs and 100+ paying merchants**.
 
@@ -56,7 +55,7 @@ A local-first B2B lead generation and outreach automation desktop client.
 
 `Electron` `Next.js` `TypeScript` `Hono` `MongoDB` `SQLite`
 
-[View repository →](https://github.com/kjxcodez/lead-forge)
+[View repository →](https://github.com/kjxcodez/leadforge-os)
 
 </details>
 
@@ -71,7 +70,7 @@ An autonomous AI coding agent for understanding, modifying, and verifying codeba
 
 `Python` `AI Agents` `LLMs` `OpenRouter` `Git`
 
-[View project →](https://kapiljangid.pro)
+[View project →](https://github.com/kjxcodez/coding-agent-nero)
 
 </details>
 
@@ -86,7 +85,7 @@ A minimal interpreted programming language built from scratch.
 
 `Python` `Lexer` `Parser` `AST` `Interpreter`
 
-[View project →](https://kapiljangid.pro)
+[View project →](https://github.com/lang-rune/rune)
 
 </details>
 
@@ -101,7 +100,7 @@ A reusable React component library focused on consistent, composable interfaces.
 
 `React` `TypeScript` `Tailwind CSS` `Nextra`
 
-[View project →](https://kapiljangid.pro)
+[View project →](https://github.com/perceptui/ui)
 
 </details>
 
